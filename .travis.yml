@@ -22,8 +22,6 @@ env:
     - SAUCE_USERNAME: gvas-grunt-saucelabs
     - secure: "X+JUDo3lwP4VSVXVT7VeB808WOm6bGg7SPlYP5WeL0lZMqeYoTdE7ZaMYrEpCgE6IdwwF+YaObx5t0AzJdcrmSqPewJWy0H/1E7xRYNC1nMSEM7eWaBCHL5duiYMeplduerfHcUDBuwkPYh34lLALjNam0IGOvHsPAt6/XGzwO0="
   matrix:
-    - TWBS_TEST=core
-    - TWBS_TEST=validate-html
     - TWBS_TEST=sauce-js-unit
 matrix:
   fast_finish: true

@@ -25,8 +25,6 @@ module.exports = function (grunt) {
   // Project configuration.
   grunt.initConfig({
 
-
-
     // Metadata.
     pkg: grunt.file.readJSON('package.json'),
     banner: '/*!\n' +
