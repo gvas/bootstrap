@@ -20,7 +20,7 @@ env:
   global:
     - JEKYLL_VERSION: 1.5.0
     - SAUCE_USERNAME: gvas-grunt-saucelabs
-    - secure: "jz0VwlVoYQ4+9HkI/7YLcfpbNNSeq9gzfCEVRgCKhDB/XQ3oHJT5ga72b/SE5QrvaxRpqRbW/SZw128rwBUI20iYTQYHHb5oQyrYB/OQlzh5gvjWI/d1GYIX35+oe0RYS8LndXxJySEShmbdPlgNKLK6jaXtTN4zcOIDaKC9L7M="
+    - secure: "X+JUDo3lwP4VSVXVT7VeB808WOm6bGg7SPlYP5WeL0lZMqeYoTdE7ZaMYrEpCgE6IdwwF+YaObx5t0AzJdcrmSqPewJWy0H/1E7xRYNC1nMSEM7eWaBCHL5duiYMeplduerfHcUDBuwkPYh34lLALjNam0IGOvHsPAt6/XGzwO0="
   matrix:
     - TWBS_TEST=core
     - TWBS_TEST=validate-html
