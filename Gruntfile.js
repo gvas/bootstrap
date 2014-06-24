@@ -405,7 +405,6 @@ module.exports = function (grunt) {
     return val === undefined || val !== '0';
   };
 
-
   // Test task.
   var testSubtasks = [];
   // Skip core tests if running a different subset of the test suite
